@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{8395BA9518105434}worlds/TheLocalPub/GCTCProvingGrounds/Assets/Decals/Markings/Runway/Data/Runway_Line50_01_Blue_GCTCProvingGrounds.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass Xbox : PC {
+  }
+ }
+}

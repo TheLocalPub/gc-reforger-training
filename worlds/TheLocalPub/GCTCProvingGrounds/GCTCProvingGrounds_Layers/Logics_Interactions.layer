@@ -1,0 +1,231 @@
+$grp GenericEntity {
+ Spawn {
+  coords 1437.086 37.938 2961.879
+  angles 0 -10.711 0
+ }
+ ParachuteTraining {
+  components {
+   PK_EntityProtectorComponent "{64E92E7918B8E1D6}" {
+   }
+  }
+  coords 1195.46 2041.994 2827.528
+  angles 0 31.801 0
+ }
+ BoatTraining {
+  coords 1155.757 1.156 3282.483
+  angles 0 131.512 0
+ }
+}
+$grp PK_EntityDeleter {
+ {
+  coords 1425.729 37.969 2975
+  angles 0 -13.486 0
+  m_fRadius 13
+  m_prefabFilterList {
+   "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et"
+   "{9A8AE4E1D90840AC}Prefabs/Props/Fabric/Flags/Flag_1_2_Blue_01.et"
+   "{5B462DF843A26368}Prefabs/Utils/Interactions/TILW_TeleportInteraction.et"
+   "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantry/P/Group_US_1975_CoyHQ_P.et"
+   "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et"
+   "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et"
+   "{FC609C179F576083}Prefabs/Props/Military/H Barrier/Hesco barrier.et"
+   "{26649EBE262394AE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Line_WaitStart.et"
+   "{80DF3BD810D032AF}Prefabs/Structures/Industrial/Towers/LightTower_01/LightTower_01.et"
+  }
+  m_excludePrefabsInList 1
+ }
+ {
+  coords 1446.697 39.057 2977.731
+  angles 0 -13.486 0
+  m_fRadius 5
+  m_prefabFilterList {
+   "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et"
+   "{9A8AE4E1D90840AC}Prefabs/Props/Fabric/Flags/Flag_1_2_Blue_01.et"
+   "{5B462DF843A26368}Prefabs/Utils/Interactions/TILW_TeleportInteraction.et"
+   "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantry/P/Group_US_1975_CoyHQ_P.et"
+   "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et"
+   "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et"
+   "{FC609C179F576083}Prefabs/Props/Military/H Barrier/Hesco barrier.et"
+   "{26649EBE262394AE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Line_WaitStart.et"
+   "{EDD9195498561E1E}Prefabs/Structures/Signs/Directions/SignDirection_Cain_01/SignDirection_02_Cain_08_3.et"
+   "{01695D7499B05DD7}Prefabs/Structures/Signs/Directions/SignDirection_Cain_01/SignDirection_02_Sign_Cain_08_3.et"
+  }
+  m_excludePrefabsInList 1
+ }
+ {
+  coords 2500.592 146.05 2246.333
+  angles 0 -13.486 0
+  m_fRadius 150
+  m_prefabFilterList {
+   "{5E2CFF1277FBB9CF}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_1f.et"
+   "{EDA004BB3DFC064A}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_1s.et"
+   "{C732468B6A1C885F}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_2f.et"
+   "{74BEBD22201B37DA}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_2s.et"
+   "{B0382E039EBE672F}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_3f.et"
+   "{20DF6F32A326584B}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_3f_high.et"
+   "{03B4D5AAD4B9D8AA}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_3s.et"
+   "{FC9A12CDC5288469}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_3w.et"
+   "{CD20C2FBFB2D5BB6}Prefabs/Vegetation/Tree/t_pinus_sylvestris/t_pinus_sylvestris_3x.et"
+   "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1f.et"
+   "{C547FFD0C63A6F3E}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1s.et"
+   "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1sw.et"
+   "{EFD5BDE091DAE12B}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2f.et"
+   "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2s.et"
+   "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2sw.et"
+   "{616D6371AEB1D799}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2t.et"
+   "{98DFD56865780E5B}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3f.et"
+   "{2B532EC12F7FB1DE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3s.et"
+   "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3sw.et"
+   "{04592C849978A51C}Prefabs/Vegetation/Tree/t_sorbus_aucuparia/t_sorbus_aucuparia_2f.et"
+  }
+ }
+}
+$grp GenericEntity : "{5B462DF843A26368}Prefabs/Utils/Interactions/TILW_TeleportInteraction.et" {
+ FlagTP_Spawn {
+  components {
+   ActionsManagerComponent "{62EF76E0D47ED96A}" {
+    additionalActions {
+     TILW_TeleportInteraction "{62EF76E608B6CB36}" {
+      ParentContextList +{
+      }
+      ActionTitle "ParachuteTrainingAreaTP"
+      Duration 0
+      "Sort Priority" 3
+      m_actionName "Teleport: Parachute training area"
+      m_locationName "ParachuteTraining"
+     }
+     TILW_TeleportInteraction "{66E344137CC14979}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "BoatTrainAreaTP"
+      "Sort Priority" 2
+      m_actionName "Teleport: Boat training area"
+      m_locationName "BoatTraining"
+     }
+     TILW_TeleportInteraction "{670F04AA39A9BC18}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "RangeTP"
+      "Sort Priority" 1
+      m_actionName "Teleport: Open range area"
+      m_locationName "RangePole"
+     }
+    }
+   }
+  }
+  coords 1437.28 39.225 2961.242
+  angles 0 -12.666 0
+ }
+ FlagTP_Boats {
+  components {
+   ActionsManagerComponent "{62EF76E0D47ED96A}" {
+    additionalActions {
+     TILW_TeleportInteraction "{62EF76E608B6CB36}" {
+      ActionTitle "SpawnTP"
+      Duration 0
+      "Sort Priority" 1
+      m_actionName "Teleport: Spawn"
+      m_locationName "Spawn"
+     }
+     TILW_TeleportInteraction "{66E327B29884E630}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "ParachuteTrainingAreaTP"
+      "Sort Priority" 3
+      m_actionName "Teleport: Parachute training area"
+      m_locationName "ParachuteTraining"
+     }
+     TILW_TeleportInteraction "{670F04AA147FF056}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "RangeTP"
+      "Sort Priority" 2
+      m_actionName "Teleport: Open range area"
+      m_locationName "RangePole"
+     }
+    }
+   }
+  }
+  coords 1152.907 2.554 3283.665
+  angles 0 131.512 0
+ }
+ FlagTP_ParaArea {
+  components {
+   ActionsManagerComponent "{62EF76E0D47ED96A}" {
+    additionalActions {
+     TILW_TeleportInteraction "{62EF76E608B6CB36}" {
+      ParentContextList +{
+      }
+      ActionTitle "SpawnTP"
+      Duration 0
+      "Sort Priority" 1
+      m_actionName "Teleport: Spawn"
+      m_locationName "Spawn"
+     }
+     TILW_TeleportInteraction "{66E344137CC14979}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "BoatTrainAreaTP"
+      "Sort Priority" 3
+      m_actionName "Teleport: Boat training area"
+      m_locationName "BoatTraining"
+     }
+     TILW_TeleportInteraction "{670F04AA1A2B6D92}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "RangeTP"
+      "Sort Priority" 2
+      m_actionName "Teleport: Open range area"
+      m_locationName "RangePole"
+     }
+    }
+   }
+  }
+  coords 1195.383 2043.036 2826.124
+  angles 0 -12.666 0
+ }
+ FlagTP_Range {
+  components {
+   ActionsManagerComponent "{62EF76E0D47ED96A}" {
+    additionalActions {
+     TILW_TeleportInteraction "{62EF76E608B6CB36}" {
+      ParentContextList +{
+      }
+      ActionTitle "ParachuteTrainingAreaTP"
+      Duration 0
+      "Sort Priority" 3
+      m_actionName "Teleport: Parachute training area"
+      m_locationName "ParachuteTraining"
+     }
+     TILW_TeleportInteraction "{670F04ABE5D57F3F}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "SpawnTP"
+      Duration 0
+      "Sort Priority" 1
+      m_actionName "Teleport: Spawn"
+      m_locationName "Spawn"
+     }
+     TILW_TeleportInteraction "{66E344137CC14979}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "BoatTrainAreaTP"
+      "Sort Priority" 2
+      m_actionName "Teleport: Boat training area"
+      m_locationName "BoatTraining"
+     }
+    }
+   }
+  }
+  coords 2505.307 149.194 2261.222
+  angles 0 -12.666 0
+ }
+}

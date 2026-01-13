@@ -1,0 +1,5 @@
+MatPBRMulti : "{1AEFB33ED7A4C273}Assets/Structures/Signs/SignLarge_02/Data/SignLarge_02_345x240.emat" {
+ GlobalMCRMap "{EE855398711BB414}worlds/TheLocalPub/GCTCProvingGrounds/Images/EverythingArsenalSign.edds"
+ OverlayBlackPower 1
+ OverlayWhitePower 1
+}

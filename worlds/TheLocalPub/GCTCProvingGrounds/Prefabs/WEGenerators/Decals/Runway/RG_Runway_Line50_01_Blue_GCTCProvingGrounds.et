@@ -1,0 +1,11 @@
+RoadGeneratorEntity : "{CBFAC6EDC0D57A02}Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+ ID "56A8E4228BE30286"
+ {
+  RoadEntity {
+   ID "56A8E4228BE30287"
+   Material "{8395BA9518105434}Assets/Decals/Markings/Runway/Data/Runway_Line50_01_Blue_GCTCProvingGrounds.emat"
+   BeginningPiece none
+   EndPiece none
+  }
+ }
+}

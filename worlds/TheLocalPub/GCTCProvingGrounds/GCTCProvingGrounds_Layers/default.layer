@@ -20,34 +20,30 @@ SCR_AIWorld AIWorld : "{01DC74137CFDDB6A}Prefabs/AI/SCR_AIWorld_Arland.et" {
 PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
  coords 3542.63 0 3483.391
 }
-PS_GameModeCoop PS_GameMode_Lobby_TILWMF1 : "{4CFD54745CD45673}Prefabs/MP/Modes/PS_GameMode_Lobby_GC.et" {
+PS_GameModeCoop PS_GameMode_Lobby_GC1 : "{4CFD54745CD45673}Prefabs/MP/Modes/PS_GameMode_Lobby_GC.et" {
  components {
   SCR_TimeAndWeatherHandlerComponent "{5EE3229927D4D2F5}" {
-   m_iStartingHours 12
-   m_bUsePredefineStartingTimeAndWeather 1
+   m_iStartingHours 10
    m_aStartingWeatherAndTime {
-    SCR_TimeAndWeatherState "{64D329C1FF596FB7}" {
+    SCR_TimeAndWeatherState "{670934A3DB3471EE}" {
      m_sWeatherPresetName "Clear"
-     m_iStartingHour 12
+     m_iStartingHour 10
     }
    }
-   m_bUseSpecifiedDate 1
-   m_iSetYear 1997
-   m_bOverrideEnvironment 1
-   m_fFogDensity 0
-   m_fFogHeight 0
-   m_fRain 0
+   m_bRandomWeatherChanges 1
+   m_bDateOverride 1
+   m_iMonth 6
+   m_iYear 1990
   }
  }
- coords 3520.824 0 3414.224
+ coords 3513.153 0 3400.594
  m_aFactionRespawnCount {
-  PS_FactionRespawnCount "{66F2C8D63D2D15C1}" {
+  PS_FactionRespawnCount "{672130631BAE9D5E}" {
    m_sFactionKey "US"
    m_iCount 999999
   }
  }
- m_eJIPState Auto
 }
-TILW_MissionFrameworkEntity TILWFramework : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramework.et" {
- coords 3675.609 24.321 3361.645
+TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramework.et" {
+ coords 3685.36 0 3364.427
 }

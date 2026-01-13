@@ -1,0 +1,4 @@
+MatPBRMulti : "{F50AA9B5632C5CE3}Assets/Structures/Signs/SignLarge_02/Data/SignLarge_02_180x290.emat" {
+ GlobalMCRMap "{D2F2467B329F48B2}worlds/TheLocalPub/GCTCProvingGrounds/Images/SpawnSign.edds"
+ OverlayBlackPower 1
+}

@@ -1327,7 +1327,10 @@ $grp SplineShapeEntity {
   }
  }
 }
-$grp GenericEntity : "{34D92102FDF5B58D}worlds/TheLocalPub/GCTCFamiliarizationCourse/Prefabs/Structures/Signs/SignsLarge_Base.et" {
+SCR_ChimeraCharacter : "{256F39E3E3C73A60}Prefabs/Characters/Factions/BLUFOR/GCTC/US/Character_GCTC_Student_P.et" {
+ coords 1475.165 38 2951.478
+}
+$grp GenericEntity : "{34D92102FDF5B58D}worlds/Prefabs/Structures/Signs/SignsLarge_Base.et" {
  {
   components {
    MeshObject "{54969A6AAAADA251}" {

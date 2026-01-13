@@ -1,0 +1,435 @@
+$grp SplineShapeEntity {
+ YellowLine1 {
+  coords 1447.455 38 2952.194
+  Points {
+   ShapePoint "{67091DE8BF8EAD18}" {
+    Position 29.177 0 4.116
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.01 0 -0.044
+      OutTangent 0.049 0 -0.21
+     }
+    }
+   }
+   ShapePoint "{67091DE8B273AB2A}" {
+    Position 35.983 0 -22.001
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.001 0 0
+      OutTangent -0.197 0 -0.045
+     }
+    }
+   }
+   ShapePoint "{670934A649B67A18}" {
+    Position 20.614 0 -26.058
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.012 -0.03 -0.117
+      OutTangent 0.019 -0.045 -0.177
+     }
+    }
+   }
+   ShapePoint "{670934A6B3AD5BD5}" {
+    Position 25.47 0 -43.296
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.013 0 0.003
+      OutTangent 0.128 0 0.031
+     }
+    }
+   }
+   ShapePoint "{670934A697FA4FD0}" {
+    Position -26.974 0 -56.881
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.017 0 0.069
+      OutTangent -0.036 0 0.144
+     }
+    }
+   }
+   ShapePoint "{670934A6F81520D4}" {
+    Position -38.423 0 -12.145
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.106 0 -0.076
+      OutTangent 0.145 0 -0.104
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0.502 0.1255 1
+  {
+   RoadGeneratorEntity : "{CBFAC6EDC0D57A02}Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 29.177 0 4.116
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.01 0 -0.044
+          OutTangent 0.049 0 -0.21
+         }
+        }
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position 35.983 0 -22.001
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -0.001 0 0
+          OutTangent -0.197 0 -0.045
+         }
+        }
+       }
+       ShapePoint "{67091DE8B00D7468}" {
+        Position 20.614 0 -26.058
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.012 -0.03 -0.117
+          OutTangent 0.019 -0.045 -0.177
+         }
+        }
+       }
+       ShapePoint "{67091DE8A47AF3C6}" {
+        Position 25.47 0 -43.296
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.013 0 0.003
+          OutTangent 0.128 0 0.031
+         }
+        }
+       }
+       ShapePoint "{670934A649B60181}" {
+        Position -26.974 0 -56.881
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -0.017 0 0.069
+          OutTangent -0.036 0 0.144
+         }
+        }
+       }
+       ShapePoint "{670934A6B3AD2217}" {
+        Position -38.423 0 -12.145
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.106 0 -0.076
+          OutTangent 0.145 0 -0.104
+         }
+        }
+       }
+      }
+      IsClosedSpline 1
+      Width 0.55
+      BeginningPiece none
+      EndPiece none
+     }
+    }
+   }
+  }
+ }
+ BlueLine1 {
+  coords 1401.95 38 2942.328
+  Points {
+   ShapePoint "{670934A7D6B099E5}" {
+    Position 75.159 0 14.738
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.016 0 -0.245
+      OutTangent 0.011 0 -0.171
+     }
+    }
+   }
+   ShapePoint "{670934A7D634E9D8}" {
+    Position 82.107 0 -12.482
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.032 0 -0.009
+      OutTangent -0.201 0 -0.057
+     }
+    }
+   }
+   ShapePoint "{670934A51A71DCCD}" {
+    Position 66.805 0 -16.628
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.041 0 -0.154
+      OutTangent 0.021 0 -0.078
+     }
+    }
+   }
+   ShapePoint "{670934A50CFABBE3}" {
+    Position 71.555 0 -33.785
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.134 0 -0.037
+      OutTangent -0.077 0 -0.021
+     }
+    }
+   }
+   ShapePoint "{670934A5610BD654}" {
+    Position 18.125 0 -47.566
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.04 0 0.153
+      OutTangent -9.87 0 37.954
+     }
+    }
+   }
+   ShapePoint "{670934A54E0976B7}" {
+    Position 6.456 0 -1.926
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -6.73 0 27.109
+      OutTangent -0.007 0 0.03
+     }
+    }
+   }
+  }
+  IsClosed 1
+  {
+   RoadGeneratorEntity : "{E95663163E03A819}worlds/TheLocalPub/GCTCProvingGrounds/Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Blue_GCTCProvingGrounds.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 75.159 0 14.738
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.016 0 -0.245
+          OutTangent 0.011 0 -0.171
+         }
+        }
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position 82.107 0 -12.482
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -0.032 0 -0.009
+          OutTangent -0.201 0 -0.057
+         }
+        }
+       }
+       ShapePoint "{670934AEFADE993D}" {
+        Position 66.805 0 -16.628
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.041 0 -0.154
+          OutTangent 0.021 0 -0.078
+         }
+        }
+       }
+       ShapePoint "{670934AEFADE9E5A}" {
+        Position 71.555 0 -33.785
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -0.134 0 -0.037
+          OutTangent -0.077 0 -0.021
+         }
+        }
+       }
+       ShapePoint "{670934AEFADE9F87}" {
+        Position 18.125 0 -47.566
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -0.04 0 0.153
+          OutTangent -9.87 0 37.954
+         }
+        }
+       }
+       ShapePoint "{670934AEFADE9CCC}" {
+        Position 6.456 0 -1.926
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -6.73 0 27.109
+          OutTangent -0.007 0 0.03
+         }
+        }
+       }
+      }
+      IsClosedSpline 1
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ RedLine1 {
+  coords 1407.943 38 2945.473
+  Points {
+   ShapePoint "{670934A5F81E1799}" {
+    Position -5.594 0 -5.86
+   }
+   ShapePoint "{670934A43EC09B16}" {
+    Position 69.603 0 12.24
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.019 0 -0.074
+      OutTangent 0.055 0 -0.211
+     }
+    }
+   }
+   ShapePoint "{670934A5CB614894}" {
+    Position 98.822 1 -100.936
+   }
+  }
+  {
+   RoadGeneratorEntity : "{F9CD1B0F842D9F60}worlds/TheLocalPub/GCTCProvingGrounds/Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Red_GCTCProvingGrounds.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position -5.594 0 -5.86
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position 69.603 0 12.24
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.019 0 -0.074
+          OutTangent 0.055 0 -0.211
+         }
+        }
+       }
+       ShapePoint "{670934AEFBD1BE57}" {
+        Position 98.822 1 -100.936
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ GreenLine1 {
+  coords 1408.047 38 2946.285
+  Points {
+   ShapePoint "{670934A5F81E1799}" {
+    Position -5.895 0 -6.06
+   }
+   ShapePoint "{670934A43EC09B16}" {
+    Position 69.908 0 12.033
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.022 0 -0.085
+      OutTangent 0.105 0 -0.397
+     }
+    }
+   }
+   ShapePoint "{670934A5CB614894}" {
+    Position 89.906 0 -65.732
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.057 0.027 -0.231
+      OutTangent 0.435 0.205 -1.764
+     }
+    }
+   }
+   ShapePoint "{670B7A5197466E3A}" {
+    Position 283.867 1 -16.674
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 134.207 0.547 27.291
+      OutTangent 121.608 0.496 24.729
+     }
+    }
+   }
+   ShapePoint "{670B7A54C0DA553F}" {
+    Position 340.933 1 -46.455
+   }
+   ShapePoint "{670B7A54C6AC4F8C}" {
+    Position 312.222 1 -91.821
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -49.663 0 -12.569
+      OutTangent -52.289 0 -13.234
+     }
+    }
+   }
+   ShapePoint "{670B7A5518048C7F}" {
+    Position 256.644 0.999 -106.647
+   }
+   ShapePoint "{670B7A54C660D7FE}" {
+    Position 22.325 1 -166.604
+   }
+  }
+  {
+   RoadGeneratorEntity : "{FFBCC406965ED3E3}worlds/TheLocalPub/GCTCProvingGrounds/Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Green_GCTCProvingGrounds.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position -5.895 0 -6.06
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position 69.908 0 12.033
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.022 0 -0.085
+          OutTangent 0.105 0 -0.397
+         }
+        }
+       }
+       ShapePoint "{670B7A5146AA24C7}" {
+        Position 89.906 0 -65.732
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 0.057 0.027 -0.231
+          OutTangent 0.435 0.205 -1.764
+         }
+        }
+       }
+       ShapePoint "{670B7A5146AA25F4}" {
+        Position 283.867 1 -16.674
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 134.207 0.547 27.291
+          OutTangent 121.608 0.496 24.729
+         }
+        }
+       }
+       ShapePoint "{670B7A5146AA258F}" {
+        Position 340.933 1 -46.455
+       }
+       ShapePoint "{670B7A5197595361}" {
+        Position 312.222 1 -91.821
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -49.663 0 -12.569
+          OutTangent -52.289 0 -13.234
+         }
+        }
+       }
+       ShapePoint "{670B7A54C0DA2CCB}" {
+        Position 256.644 0.999 -106.647
+       }
+       ShapePoint "{670B7A54C6AC13DF}" {
+        Position 22.325 1 -166.604
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{26649EBE262394AE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Line_WaitStart.et" {
+ {
+  coords 1428.031 38.001 2953.632
+  angles 0 166.593 0
+ }
+ {
+  coords 1447.539 38.001 2958.281
+  angles 0 166.593 0
+ }
+}

@@ -1,0 +1,320 @@
+$grp PolylineShapeEntity : "{A0468F86F76FCEE7}Prefabs/Logic/Map/TILW_MapShape.et" {
+ Green_SpawnZone {
+  components {
+   TILW_MapShapeComponent "{6508F5526836BC09}" {
+    m_color 0.071 0.561 0.192 0.392
+    m_drawLine 1
+    m_lineWidth 3
+   }
+  }
+  coords 1441.149 37.974 2959.635
+  Points {
+   ShapePoint "{670F04AFC502E2ED}" {
+    Position 9.625 0.812 32.781
+   }
+   ShapePoint "{670F04AE3C127D73}" {
+    Position 17.058 0.026 6.089
+   }
+   ShapePoint "{670F04AE1FF119B2}" {
+    Position 47.394 0.64 14.095
+   }
+   ShapePoint "{670F04AE13FFF891}" {
+    Position 358.697 12.891 92.336
+   }
+   ShapePoint "{670F04AE207B6548}" {
+    Position 415.47 2.519 -141.863
+   }
+   ShapePoint "{670F04AE2CD8B91A}" {
+    Position -18.978 -0.689 -261.588
+   }
+   ShapePoint "{670F04AE294EEBBA}" {
+    Position -85.865 0.026 -18.736
+   }
+   ShapePoint "{670F04AE2835E954}" {
+    Position -26.405 0.182 -4.397
+   }
+   ShapePoint "{670F04AE3D7E19CF}" {
+    Position -32.253 0.003 22.841
+   }
+  }
+ }
+ Green_BoatArea {
+  components {
+   TILW_MapShapeComponent "{6508F5526836BC09}" {
+    m_color 0.071 0.561 0.192 0.392
+    m_drawLine 1
+    m_lineWidth 3
+   }
+  }
+  coords 1046.628 1.842 3413.461
+  Points {
+   ShapePoint "{670F04ADCC0B6AA8}" {
+    Position 161.406 -0.931 -160.06
+   }
+   ShapePoint "{671F3D98B9FCF75B}" {
+    Position 166.178 4.153 -87.782
+   }
+   ShapePoint "{671F3D98B97B1A2F}" {
+    Position 152.566 11.325 -23.68
+   }
+   ShapePoint "{671F3D98BEC3517C}" {
+    Position 90.091 8.367 18.457
+   }
+   ShapePoint "{671F3D98BFA609B8}" {
+    Position 26.371 -0.824 7.635
+   }
+   ShapePoint "{671F3D98B344CB46}" {
+    Position -13.285 -1.239 -12.372
+   }
+   ShapePoint "{671F3D98B00BE829}" {
+    Position -81.806 -1.591 3.144
+   }
+   ShapePoint "{671F3D98B6DE9F37}" {
+    Position -146.999 -1.33 33.575
+   }
+   ShapePoint "{671F3D98B654BDB9}" {
+    Position -209.472 -0.86 80.361
+   }
+   ShapePoint "{671F3D98B4FFF125}" {
+    Position -240.133 -1.472 115.229
+   }
+   ShapePoint "{671F3D98B46614D8}" {
+    Position -300.929 -2.031 115.296
+   }
+   ShapePoint "{671F3D98B56DF066}" {
+    Position -335.07 -1.531 112.042
+   }
+   ShapePoint "{671F3D98AAF76F89}" {
+    Position -406.794 -2.034 69.647
+   }
+   ShapePoint "{671F3D98ABBF3154}" {
+    Position -448.524 -26.198 -68.504
+   }
+   ShapePoint "{671F3D98AB391189}" {
+    Position -399.369 -16.584 -212.501
+   }
+   ShapePoint "{671F3D98A8B05100}" {
+    Position -320.626 -10.319 -349.928
+   }
+   ShapePoint "{671F3D98A8248EB9}" {
+    Position -247.586 12.641 -401.296
+   }
+   ShapePoint "{671F3D98A91AEC56}" {
+    Position -207.218 11.2 -359.989
+   }
+   ShapePoint "{671F3D98AEA2194E}" {
+    Position -155.161 -1.07 -315.53
+   }
+   ShapePoint "{671F3D98AE10229A}" {
+    Position -110.806 5.957 -283.165
+   }
+   ShapePoint "{671F3D98AF82B8B5}" {
+    Position -77.226 -1.217 -253.512
+   }
+   ShapePoint "{671F3D98AF01AC51}" {
+    Position -22.945 -1.432 -234.002
+   }
+   ShapePoint "{671F3D98ACBAEB94}" {
+    Position 15.418 -1.051 -237.655
+   }
+   ShapePoint "{671F3D98AC287A0B}" {
+    Position 64.699 -1.004 -197.301
+   }
+  }
+ }
+ Green_RangeArea {
+  components {
+   TILW_MapShapeComponent "{6508F5526836BC09}" {
+    m_color 0.071 0.561 0.192 0.392
+    m_drawLine 1
+    m_lineWidth 3
+   }
+  }
+  coords 2486.706 147.142 2244.332
+  Points {
+   ShapePoint "{670F04AA432F78DB}" {
+    Position 150.936 -36.443 -57.631
+   }
+   ShapePoint "{670F04AABB307B49}" {
+    Position 158.563 -32.149 -27.366
+   }
+   ShapePoint "{670F04AAB8C82A4E}" {
+    Position 159.094 -25.972 2.275
+   }
+   ShapePoint "{670F04AAB85A51DB}" {
+    Position 158.83 -34.302 31.902
+   }
+   ShapePoint "{670F04AABEB069F8}" {
+    Position 153.419 -40.166 56.532
+   }
+   ShapePoint "{670F04AABE1F9D91}" {
+    Position 135.514 -33.091 84.696
+   }
+   ShapePoint "{670F04AABFCB9CA9}" {
+    Position 116.156 -27.029 105.275
+   }
+   ShapePoint "{670F04AABF546212}" {
+    Position 94.981 -25.986 123.385
+   }
+   ShapePoint "{670F04AABDF4CD33}" {
+    Position 69.582 -19.189 137.996
+   }
+   ShapePoint "{670F04AAB2CC6994}" {
+    Position 42.496 -12.71 146.833
+   }
+   ShapePoint "{670F04AAB3984895}" {
+    Position 14.458 -19.609 149.104
+   }
+   ShapePoint "{670F04AAB0FC777E}" {
+    Position -15.219 -24.375 147.494
+   }
+   ShapePoint "{670F04AAB1B00087}" {
+    Position -42.841 -31.183 135.88
+   }
+   ShapePoint "{670F04AAB6A9F804}" {
+    Position -67.658 -33.701 123.286
+   }
+   ShapePoint "{670F04AAAE0A66FA}" {
+    Position -89.502 -29.428 104.095
+   }
+   ShapePoint "{670F04AAACAF149A}" {
+    Position -107.911 -33.145 82.042
+   }
+   ShapePoint "{670F04AAAC5AA865}" {
+    Position -121.604 -34.776 53.231
+   }
+   ShapePoint "{670F04AAA25C25E0}" {
+    Position -128.868 -37.208 29.761
+   }
+   ShapePoint "{670F04AAA3234F1F}" {
+    Position -131.175 -37.06 2.312
+   }
+   ShapePoint "{670F04AAA0E95B71}" {
+    Position -128.136 -35.991 -26.788
+   }
+   ShapePoint "{670F04AAA687C29B}" {
+    Position -120.558 -35.401 -53.588
+   }
+   ShapePoint "{670F04AAA790F48E}" {
+    Position -108.344 -29.954 -79.49
+   }
+   ShapePoint "{670F04AAA47D5D16}" {
+    Position -88.088 -25.646 -98.894
+   }
+   ShapePoint "{670F04AAA51378AD}" {
+    Position -66.217 -34.461 -118.249
+   }
+   ShapePoint "{670F04AA9A2BCABB}" {
+    Position -41.614 -34.495 -132.509
+   }
+   ShapePoint "{670F04AA9B164EAB}" {
+    Position -14.888 -32.907 -141.287
+   }
+   ShapePoint "{670F04AA9827586A}" {
+    Position 12.85 -23.698 -140.809
+   }
+   ShapePoint "{670F04AA99C0785B}" {
+    Position 40.786 -29.832 -139.549
+   }
+   ShapePoint "{670F04AA9FBC7E24}" {
+    Position 70.769 -33.074 -132.293
+   }
+   ShapePoint "{670F04AA9F61640D}" {
+    Position 95.51 -28.718 -118.265
+   }
+   ShapePoint "{670F04AA9CD1B2BC}" {
+    Position 119.812 -32.131 -99.285
+   }
+   ShapePoint "{670F04AA40E70ACC}" {
+    Position 131.983 -34.043 -87.487
+   }
+  }
+ }
+}
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ SpawnMarker {
+  coords 1437.286 37.925 2961.031
+  angles 0 87.074 0
+  m_MarkerColor 0 0.25 1 1
+  m_sQuadName "flag-2"
+  m_fWorldSize 40
+  m_sDescription "SPAWN"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 10
+  m_bShowForAnyFaction 1
+ }
+ Aresnal1 {
+  coords 1439.506 42.825 2942.277
+  angles 0 88.756 0
+  m_sImageSet "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset"
+  m_sImageSetGlow "{6980E83C053C9B5D}UI/Textures/Icons/icons_wrapperUI-128-glow.imageset"
+  m_MarkerColor 0 0 0 1
+  m_sQuadName "weapons"
+  m_sDescription "Arsenal"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 9
+  m_bShowForAnyFaction 1
+ }
+ BoatArea {
+  coords 1153.461 1.156 3283.541
+  m_MarkerColor 0 0.25 1 1
+  m_sQuadName "flag-2"
+  m_fWorldSize 40
+  m_sDescription "Boat area"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 10
+  m_bShowForAnyFaction 1
+ }
+ Aresnal2 {
+  coords 1165.849 1.156 3283.542
+  m_sImageSet "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset"
+  m_sImageSetGlow "{6980E83C053C9B5D}UI/Textures/Icons/icons_wrapperUI-128-glow.imageset"
+  m_MarkerColor 0 0 0 1
+  m_sQuadName "weapons"
+  m_sDescription "Arsenal"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 9
+  m_bShowForAnyFaction 1
+ }
+ RangeArea {
+  coords 2507.003 147.866 2263.394
+  angles 0 87.074 0
+  m_MarkerColor 0 0.25 1 1
+  m_sQuadName "flag-2"
+  m_fWorldSize 40
+  m_sDescription "Range area"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 10
+  m_bShowForAnyFaction 1
+ }
+ Aresnal3 {
+  coords 2508.086 147.75 2256.065
+  angles 0 88.756 0
+  m_sImageSet "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset"
+  m_sImageSetGlow "{6980E83C053C9B5D}UI/Textures/Icons/icons_wrapperUI-128-glow.imageset"
+  m_MarkerColor 0 0 0 1
+  m_sQuadName "weapons"
+  m_sDescription "Arsenal"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 9
+  m_bShowForAnyFaction 1
+ }
+ MSR {
+  coords 2730.992 77.241 2018.823
+  angles 0 87.074 0
+  m_MarkerColor 0 0 0 1
+  m_sQuadName "point-of-interest"
+  m_fWorldSize 40
+  m_sDescription "Main supply route (MSR)"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_iZOrder 10
+  m_bShowForAnyFaction 1
+ }
+}

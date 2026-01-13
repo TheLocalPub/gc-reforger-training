@@ -1,0 +1,165 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ SUMMARY {
+  coords 3821.125 7.596 1805.825
+  m_sTitle "Welcome"
+  m_sTextData "Welcome to the Proving Grounds, Soldier!"\
+  ""\
+  "OVERVIEW:"\
+  "This sandbox scenario provides a controlled environment to test, experiment with, and familiarize yourself with nearly all content included in our modpack. The Proving Grounds are designed to help you build confidence and proficiency with weapons, vehicles, systems, and gameplay mechanics before deploying into live operations."\
+  ""\
+  "RULES:"\
+  "This is an open sandbox environment where combat is permitted; however, mutual respect towards others is expected."\
+  "Be mindful of other players and their activities. If you observe someone clearly training, testing equipment, practicing vehicle operations, or running drills, allow them the space to do so without interference."\
+  ""\
+  "ADDITIONAL INFORMATION:"\
+  "Briefing tabs remain accessible throughout the scenario and contain reference material commonly used during our missions. Make use of these resources to enhance your understanding and effectiveness within the Proving Grounds."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ Radios {
+  coords 3803.904 0 1851.775
+  m_sTitle "Radios and VP"
+  m_sTextData "We define radios at here as \"Long range\" and \"Short range\" radios."\
+  "Typically short range radios are used for smaller formation such as squads, while the long range radios are used for platoon, company, air, or even an artillery net."\
+  "Some of these radios are single or dual role meaning they can have either one or two seperate channels to monitor at the same time."\
+  ""\
+  "|Voice procedures|"\
+  "THINK. PUSH. SPEAK."\
+  ""\
+  "\"Roger\" = Ok/Yes"\
+  "\"Negative\" = No/Can't do"\
+  "\"Over\" = I've finished talking and awaiting a response."\
+  "\"Out\" = I've finised talking and don't need a response."\
+  "\"Say again\" = Repeat what you just said."\
+  "\"Radio check\" = Hello can anyone hear me?"\
+  "\"Sighting\" = An element or yourself has spotted something."\
+  "\"Contact!\" = Used to alert others of enemy engaging friendly forces."\
+  ""
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+  m_iOrder 1
+ }
+ Maps {
+  coords 3808.913 0 1906.097
+  m_sTitle "Map & Compass"
+  m_sTextData "Map:"\
+  "|GRIDS|"\
+  "When getting a GRID, you move either left or right along the top or bottom first, before going either up or down on the left or right of your screen."\
+  "Bottom/top are known as \"Eastings\""\
+  "Left/right are known as \"Northings\""\
+  ""\
+  "4 digit grid = 1000m accuracy"\
+  "6 digit grid = 100m accuracy"\
+  "8 digit grid = 10m accuracy"\
+  "10 digit grid = 1m accuracy"\
+  "Grid scale is show in the bottom left corner."\
+  ""\
+  "|CONTOUR LINES|"\
+  "Contour lines are the little black lines that go around a hill's slope for example."\
+  "Your level of zoom on the map will show more or less of these and your map legend will indicate the amount of altitude change per contour line. If my map legends says 5m per contour and I see 5 contours between point A to B, then his means it's either 25m+/25m- altitude depending if I'm going up or down."\
+  "A quick indication of a very steep slope or a cliff are many contour closer togeather, while further apart contours in a rolling fashion means more flat ground."\
+  ""\
+  "Compass:"\
+  "|DEGREES AND MILS|"\
+  "The inner ring on a compass are your degrees and the outer ring are Mils."\
+  "Typically you'll use degrees as infantry or armour, while most likely use mils if you were an air asset or artillery due to it's better use over long distances and accuracy."\
+  "Degrees ranges from 0-360, while mils ranges from 0-6400 and goes up in increments of 20, compared to increments of 1 with degrees."\
+  ""\
+  "|DIRECTIONS|"\
+  "Cardinal directions are your North, South, East, and West."\
+  "You then have intercardinal which are NE, SE, SW, NW."\
+  "and finally your sub-cardinal directions which are NNE, ENE, ESE, SSE, SSW, WSW, WNW. NNW."\
+  "Each one allows a user to break down their compass and be more refined in directions, without having to pull out their whole compass and get accurate bearings."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+  m_iOrder 2
+ }
+ Acronyms {
+  coords 3863.45 0 1983.085
+  m_sTitle "Acronyms"
+  m_sTextData "|NAVIGATION|"\
+  "WP = Waypoint - Simply pass through this marker."\
+  "CP = Checkpoint - Check-in on net, check map and bearings."\
+  "FUP = Forming up point - A place used to stage before a maneuver."\
+  "RV = Rendezvous - A place used to rally people."\
+  "SP = Start point - Start of a route."\
+  "EP = End point - End of a route."\
+  "RP  = Release point - A point where units break off the main column."\
+  "NAI = Named are of interest."\
+  "POI = Point of interest."\
+  "MSR = Main supply route."\
+  "ASR = Alternative supply route."\
+  "DT = Dirt-track."\
+  "KT = Key terrain."\
+  "FLOT = Foward line of own troops."\
+  "FLET = Foward line of enemy troops."\
+  "OBJ = Objective."\
+  ""\
+  "|TACTICAL EMPLOYMENT & MANEUVERS|"\
+  "BOF = Base of fire."\
+  "ABF = Attack by fire."\
+  "SBF = Support by fire."\
+  "CATK = Counter-attack."\
+  "OP = Observation post."\
+  "LP = Listening post."\
+  "AA = Attack axis."\
+  "LOA = Limit of advance."\
+  "LD = Line of departure."\
+  "LC = Line of contact."\
+  ""\
+  "|FIRES & SUPPORT|"\
+  "FO = Foward observer."\
+  "FAC = Foward air controller."\
+  "JTAC = Joint terminal attack controller."\
+  "TRP = Target reference point."\
+  "TGT = Target."\
+  "TOT = Time on target."\
+  "BDA = Battle damage assessment."\
+  "FPF = Final protective fires."\
+  "NFA = No fires area."\
+  ""\
+  "|OTHER|"\
+  "HE = High explosive."\
+  "WARNO = Warning order."\
+  "OPFOR = Operation order."\
+  "IOT = In order to."\
+  "NLT = No later than."\
+  "AO = Operational area."\
+  "AT = Anti-Tank."\
+  "AP = Anti-personel."\
+  "IVO = In vicinity of."\
+  "MLCOA = Most likely course of action."\
+  "MDCOA = Most dangreous course of action."\
+  "HVT = High value target."\
+  "VIC = Vehicle."\
+  "ETA = Expected time of arrival."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+  m_iOrder 3
+ }
+ Parachuting {
+  coords 3862.129 0 1984.952
+  m_sTitle "Parachuting"
+  m_sTextData "|DESCRIPTION|"\
+  "At this time, Arma Reforger does not natively support parachuting. As a result, all parachute functionality is provided through mods and may not always behave perfectly. That said, the parachute mods currently in use are generally reliable and function as intended in most situations."\
+  "Our active parachute mod provides steerable canopies, allowing limited control during descent. Other available mods may offer static-line parachuting, but these are not currently in use."\
+  "Due to the lack of base-game support, ejecting from a moving helicopter or aircraft will cause you to be violently propelled in the direction of travel, often resulting in uncontrolled tumbling. While parachute deployment is still possible in this state, expect reduced situational awareness and a high likelihood of landing off target."\
+  "Jumping from a stationary or hovering platform will result in a clean vertical freefall with no tumbling or forward glide until the parachute is deployed."\
+  "The parachute occupies the backpack slot, which may limit your ability to carry additional equipment. This remains the primary limitation of the current system until a chest-mounted backpack or similar feature becomes available. "\
+  ""\
+  "|HOW TO USE A PARACHUTE|"\
+  "1. Equip the parachute in the backpack slot (visually similar to a standard Soviet backpack)."\
+  "2. Jump from a ledge or aircraft."\
+  "3. Press Spacebar to deploy the parachute."\
+  "4. Use W, A, S, D to control direction and forward speed."\
+  "5. Reduce speed significantly before landing. A hard landing can result in severe injury or instant death."\
+  ""\
+  "|OTHER|"\
+  "• Press X at any time to cut away the parachute. There is no reserve chute."\
+  "• Parachutes can be damaged or destroyed by gunfire or similar hazards during descent, resulting in a fatal fall."\
+  "• Certain RHS watches include an altimeter function. These update approximately every 5 seconds and can be checked while parachuting."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+  m_iOrder 4
+ }
+}

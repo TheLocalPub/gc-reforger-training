@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{07B47BFB663B773A}worlds/TheLocalPub/GCTCFamiliarizationCourse/Images/Signs/WelcomeSign1.edds"
+ Name "{2D426AE9ACD9F2CA}worlds/TheLocalPub/GCTCProvingGrounds/Images/StaticWeaponSign.edds"
  Configurations {
   PNGResourceClass PC : "{DC555BD399D92412}Configs/System/ResourceTypes/PC/TextureUnspecified.conf" {
    ColorSpace ToSRGB

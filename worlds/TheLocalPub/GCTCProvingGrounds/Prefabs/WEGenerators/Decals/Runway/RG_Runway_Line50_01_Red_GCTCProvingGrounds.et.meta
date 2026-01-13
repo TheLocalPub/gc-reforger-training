@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{F9CD1B0F842D9F60}Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line50_01_Red_GCTCProvingGrounds.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}
