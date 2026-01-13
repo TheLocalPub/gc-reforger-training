@@ -25,7 +25,7 @@ $grp SCR_AIGroup : "{C42280A6985BFE69}Prefabs/Groups/BLUFOR/US/Army/1981/Infantr
     m_iSquadCallsign 1
    }
   }
-  coords 1471.985 38 2943.509
+  coords 1471.86 38 2943.072
   angles 0 -15.573 0
   m_aUnitPrefabSlots {
    "{256F39E3E3C73A60}Prefabs/Characters/Factions/BLUFOR/GCTC/US/Character_GCTC_Student_P.et"
