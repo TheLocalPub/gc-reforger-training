@@ -73,6 +73,34 @@ $grp SCR_DestructibleEntity : "{B90DA56B82E370CB}Prefabs/Structures/Signs/SignLa
   coords 2507.524 147.867 2265.065
   angles 0 -142.97 0
  }
+ SpawnSign3 {
+  components {
+   MeshObject "{54969A6AAAADA251}" {
+    Materials {
+     MaterialAssignClass "{670F04A7B870729A}" {
+      SourceMaterial "SignLarge_02_180x290"
+      AssignedMaterial "{F4D77B12C47FFBEC}worlds/TheLocalPub/GCTCProvingGrounds/Assets/Structures/Signs/SignLarge_02/Data/SignLarge_02_180x290_GCTCProvingGrounds_SpawnSign1.emat"
+     }
+    }
+   }
+  }
+  coords 3402.866 3.778 1302.371
+  angles 0 -151.067 0
+ }
+ SpawnSign4 {
+  components {
+   MeshObject "{54969A6AAAADA251}" {
+    Materials {
+     MaterialAssignClass "{670F04A7B870729A}" {
+      SourceMaterial "SignLarge_02_180x290"
+      AssignedMaterial "{F4D77B12C47FFBEC}worlds/TheLocalPub/GCTCProvingGrounds/Assets/Structures/Signs/SignLarge_02/Data/SignLarge_02_180x290_GCTCProvingGrounds_SpawnSign1.emat"
+     }
+    }
+   }
+  }
+  coords 3407.272 3.533 1294.653
+  angles 0 -106.067 0
+ }
 }
 $grp GenericEntity : "{EDD9195498561E1E}Prefabs/Structures/Signs/Directions/SignDirection_Cain_01/SignDirection_02_Cain_08_3.et" {
  VehicleDirections1 {

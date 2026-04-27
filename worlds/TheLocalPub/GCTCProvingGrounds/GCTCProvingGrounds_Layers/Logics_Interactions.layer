@@ -1,6 +1,6 @@
 $grp GenericEntity {
  Spawn {
-  coords 1437.086 37.938 2961.879
+  coords 1435.883 37.938 2964.714
   angles 0 -10.711 0
  }
  ParachuteTraining {
@@ -33,6 +33,7 @@ $grp PK_EntityDeleter {
    "{80DF3BD810D032AF}Prefabs/Structures/Industrial/Towers/LightTower_01/LightTower_01.et"
   }
   m_excludePrefabsInList 1
+  m_bPreviewShape 0
  }
  {
   coords 1446.697 39.057 2977.731
@@ -51,6 +52,7 @@ $grp PK_EntityDeleter {
    "{01695D7499B05DD7}Prefabs/Structures/Signs/Directions/SignDirection_Cain_01/SignDirection_02_Sign_Cain_08_3.et"
   }
   m_excludePrefabsInList 1
+  m_bPreviewShape 0
  }
  {
   coords 2500.592 146.05 2246.333
@@ -78,6 +80,7 @@ $grp PK_EntityDeleter {
    "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3sw.et"
    "{04592C849978A51C}Prefabs/Vegetation/Tree/t_sorbus_aucuparia/t_sorbus_aucuparia_2f.et"
   }
+  m_bPreviewShape 0
  }
 }
 $grp GenericEntity : "{5B462DF843A26368}Prefabs/Utils/Interactions/TILW_TeleportInteraction.et" {
@@ -227,5 +230,51 @@ $grp GenericEntity : "{5B462DF843A26368}Prefabs/Utils/Interactions/TILW_Teleport
   }
   coords 2505.307 149.194 2261.222
   angles 0 -12.666 0
+ }
+ FlagTP_Home {
+  components {
+   ActionsManagerComponent "{62EF76E0D47ED96A}" {
+    additionalActions {
+     TILW_TeleportInteraction "{62EF76E608B6CB36}" {
+      ParentContextList +{
+      }
+      ActionTitle "HomeTP"
+      Duration 0
+      m_actionName "Teleport: Spawn"
+      m_locationName "Spawn"
+     }
+     TILW_TeleportInteraction "{670F04AA39A9BC18}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "RangeTP"
+      "Sort Priority" 1
+      m_actionName "Teleport: Open range area"
+      m_locationName "RangePole"
+     }
+     TILW_TeleportInteraction "{66E344137CC14979}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "BoatTrainAreaTP"
+      "Sort Priority" 2
+      m_actionName "Teleport: Boat training area"
+      m_locationName "BoatTraining"
+     }
+     TILW_TeleportInteraction "{69352DA33F8B0115}" {
+      ParentContextList {
+       "Interact_A"
+      }
+      ActionTitle "ParachuteTrainingAreaTP"
+      Duration 0
+      "Sort Priority" 3
+      m_actionName "Teleport: Parachute training area"
+      m_locationName "ParachuteTraining"
+     }
+    }
+   }
+  }
+  coords 3403.349 5.004 1297.839
+  angles 0 -42.383 0
  }
 }

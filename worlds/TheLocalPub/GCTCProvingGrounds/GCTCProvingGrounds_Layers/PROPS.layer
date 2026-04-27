@@ -12,9 +12,21 @@ GenericEntity {
  angles 0 86.728 0
  scale 1000
 }
-GenericEntity : "{04104BBB4BAA8833}Prefabs/Infrastructure/Platforms/Platform_10x10M.et" {
- coords 1195.74 2039.928 2826.013
- angles 0 0 0
+$grp GenericEntity : "{04104BBB4BAA8833}Prefabs/Infrastructure/Platforms/Platform_10x10M.et" {
+ {
+  coords 1195.74 2039.928 2826.013
+  angles 0 0 0
+ }
+ {
+  coords 3388.752 24.583 1289.14
+  angles 0 -29.775 -180
+  scale 4.9
+ }
+ {
+  coords 3388.752 24.583 1289.14
+  angles 0 150.225 0
+  scale 4.9
+ }
 }
 SCR_DestructibleBuildingEntity : "{111B0910C84A0545}Prefabs/tem_bridge2.et" {
  coords 2760.941 118.168 1818.459
@@ -34,6 +46,10 @@ SCR_DestructibleBuildingEntity : "{5312C1597A2D08C6}Prefabs/Structures/Communcat
  }
  coords 3152.866 40.15 1972.485
  scale 3
+}
+GameEntity : "{537055C7BFA8530F}Prefabs/Props/Civilian/Ladders/LadderFactorySilo.et.et" {
+ coords 1337.686 -0.188 2818.031
+ angles 0 -8.449 0
 }
 SCR_DestructibleBuildingEntity : "{560C9D20DE156C8A}Prefabs/Models/houses/tem_pyramid2.et" {
  coords 2349.829 -16.55 2918.801
@@ -4345,6 +4361,11 @@ GenericEntity : "{608F045AB577A002}Prefabs/Models/props/skull4.et" {
  angles -12.319 32.61 -7.773
  scale 100
 }
+SCR_DestructibleBuildingEntity : "{6BFCE82ECCA3E88E}Prefabs/Structures/Bulding/FuelStation/Ind_FuelStation_Shed_ep1.et" {
+ coords 1419.862 39 2772.817
+ angles 0 75 0
+ scale 3
+}
 GenericEntity : "{785F322AC3DFD4B9}Prefabs/Compositions/Misc/SubCompositions/Furniture/Chair_Light_US_01.et" {
  coords 2508.786 147.875 2264.356
  angles 0 0 0
@@ -4520,12 +4541,28 @@ $grp StaticModelEntity : "{80DF3BD810D032AF}Prefabs/Structures/Industrial/Towers
  }
 }
 SCR_DestructibleBuildingEntity : "{8529ECDFBA1CCB5D}Prefabs/Models/houses/tem_cranecon.et" {
- coords 1438.073 -0.266 2841.252
- angles 0 115.515 0
+ coords 1417.371 -0.379 2816.106
+ angles 0 80.03 0
 }
 GenericEntity : "{99AF9B997328956D}Prefabs/Compositions/Misc/SubCompositions/Furniture/Chair_Stack_US_01.et" {
  coords 1435.369 37.974 2957.77
  angles 0 -56.874 0
+}
+$grp GenericEntity : "{A0925A933E790D52}Prefabs/Props/Civilian/BenchSchool/StarSign.et" {
+ {
+  coords 2314.145 36.428 2920.2
+  angles 39.042 -90 0
+  scale 75
+ }
+ {
+  coords 2386.41 37.325 2920.2
+  angles 36.199 90 0
+  scale 75
+ }
+}
+GameEntity : "{A2FB2AD3B8E5B203}Prefabs/Props/Civilian/Ladders/LadderLong GreenMountain.et" {
+ coords 1337.686 -0.188 2818.031
+ angles 0 -8.449 0
 }
 $grp SCR_DestructibleBuildingEntity : "{AAC46CD368B92680}Prefabs/Models/houses/tem_arch1.et" {
  {
@@ -4549,8 +4586,32 @@ $grp SCR_DestructibleBuildingEntity : "{AAC46CD368B92680}Prefabs/Models/houses/t
   scale 9.05
  }
 }
-SCR_DestructibleBuildingEntity : "{B390D1D9D2F0FBE1}Prefabs/Models/houses/tem_pyramid3.et" {
- coords 935.856 -7.894 1415.616
+$grp GenericEntity : "{AC0BE9625BFD0470}Prefabs/Models/ind/tem_ind_canalwall1.et" {
+ {
+  coords 3427.318 0.275 1282.097
+  angles 0 150 0
+  scale 0.5
+ }
+ {
+  coords 3379.001 0.275 1252.863
+  angles 0 -120 0
+  scale 0.5
+ }
+ {
+  coords 3357.345 0.275 1290.372
+  angles 0 -120 0
+  scale 0.5
+ }
+ {
+  coords 3382.487 0.275 1256.214
+  angles 0 150 0
+  scale 0.5
+ }
+}
+SCR_DestructibleBuildingEntity : "{B347B5A03A5C7CCB}Prefabs/Structures/Infrastructure/Naval/Piers/Pier02 Railing Double.et" {
+ coords 348.121 39 1579.479
+ angles 0 53.819 0
+ scale 25
 }
 SCR_DestructibleBuildingEntity : "{BFD341B4254C64D6}Prefabs/Structures/Industrial/Large RedBarn v2.et" {
  components {
@@ -4570,6 +4631,10 @@ $grp GenericEntity : "{C5E5467213DB03DA}PrefabsEditable/Auto/EffectsModuleEntiti
   coords 1290.814 41.544 2948.806
   angles -50.74 -102.952 0.771
  }
+}
+GameEntity : "{C8D269AC41F9308B}Prefabs/Props/Civilian/Ladders/LadderSideFactory.et" {
+ coords 1337.686 38.463 2818.031
+ angles 0 -8.449 0
 }
 $grp GenericEntity : "{CD18971542C21223}Prefabs/Structures/Signs/Warnings/SignDangerCurve_01_right.et" {
  {
@@ -5059,6 +5124,30 @@ $grp GenericEntity : "{E021E2FFF02ADF0C}Prefabs/Structures/Infrastructure/Lamps/
   coords 1694.285 -0.441 2898.157
   angles 0 -14.592 0
  }
+ {
+  coords 3405.939 0 1298.88
+ }
+ {
+  coords 3398.55 0 1313.396
+ }
+ {
+  coords 3415.203 0 1284.461
+ }
+ {
+  coords 3379.547 0 1302.625
+ }
+ {
+  coords 3361.882 0 1292.495
+ }
+ {
+  coords 3396.976 0 1273.824
+ }
+ {
+  coords 3379.311 0 1263.694
+ }
+ {
+  coords 3369.992 -0.713 1278.145
+ }
 }
 GenericEntity : "{E0673017CF2EAAE4}Prefabs/Structures/Signs/Warnings/SignFuelStation_01_pole.et" {
  coords 1266.456 38 2903.732
@@ -5148,6 +5237,22 @@ $grp GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPo
   }
   coords 2505.287 147.82 2261.212
   angles 0 -12.666 0
+ }
+ {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_sDefaultMaterial "{5A1B3B1C76F584C8}Assets/Props/Fabric/Flags/Data/Flag_1_2_Blue.emat"
+   }
+   SlotManagerComponent "{55DAE04E55ECE7FA}" {
+    Slots {
+     EntitySlotInfo Flag {
+      Prefab "{9A8AE4E1D90840AC}Prefabs/Props/Fabric/Flags/Flag_1_2_Blue_01.et"
+     }
+    }
+   }
+  }
+  coords 3403.324 3.668 1297.863
+  angles 0 -42.383 0
  }
 }
 GenericEntity : "{ED5984D845559626}Prefabs/Models/statues/tem_egyptstatue4_anubis.et" {

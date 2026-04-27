@@ -9,8 +9,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 9
    }
   }
-  coords 1431.329 38.044 2981.152
-  angles 0 165.428 0
+  coords 3386.177 4.207 1288.248
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -23,6 +23,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -36,8 +37,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 4
    }
   }
-  coords 1433.431 38.044 2973.065
-  angles 0 165.428 0
+  coords 3393.459 3.812 1292.346
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -50,6 +51,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -63,8 +65,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 3
    }
   }
-  coords 1433.097 38.044 2974.348
-  angles 0 165.428 0
+  coords 3392.303 3.878 1291.696
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -77,6 +79,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -90,8 +93,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 1
    }
   }
-  coords 1431.86 38.044 2979.11
-  angles 0 165.428 0
+  coords 3388.016 4.136 1289.282
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -104,6 +107,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -117,8 +121,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 2
    }
   }
-  coords 1432.55 38.044 2976.455
-  angles 0 165.428 0
+  coords 3390.406 4.012 1290.628
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -131,6 +135,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -144,8 +149,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 5
    }
   }
-  coords 1433.844 38.044 2971.475
-  angles 0 165.428 0
+  coords 3394.889 3.769 1293.152
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -158,6 +163,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -171,8 +177,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 6
    }
   }
-  coords 1434.339 38.044 2969.572
-  angles 0 165.428 0
+  coords 3396.603 3.722 1294.117
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -185,6 +191,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -198,8 +205,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 7
    }
   }
-  coords 1434.743 38.044 2968.019
-  angles 0 165.428 0
+  coords 3398.001 3.695 1294.904
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -212,6 +219,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
@@ -225,8 +233,8 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
     m_iSquadCallsign 8
    }
   }
-  coords 1435.138 38.044 2966.501
-  angles 0 165.428 0
+  coords 3399.369 3.657 1295.675
+  angles 0 60.621 0
   m_aUnitPrefabSlots {
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
@@ -239,6 +247,7 @@ $grp SCR_AIGroup : "{FB98EBEA27AC7DA1}Prefabs/Groups/BLUFOR/US/Army/1975/Infantr
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
    "{4B7386E00FEB621F}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_RF_P.et"
   }
+  m_bSnapToTerrain 0
   m_bPlayable 1
   m_sCustomNameSet "Global Conflicts Gamers"
  }
